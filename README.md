@@ -10,7 +10,7 @@ Versione <b>0.4.0</b> · 13 ottobre 2026 · Map ID <code>titanic_lobby_party</co
 </p>
 
 <p align="center">
-<a href="https://thunderstore.io/c/reskate/p/Skilly/Skate_Tanic/"><b>Thunderstore</b></a> ·
+<a href="https://thunderstore.io/c/reskate/p/Skilly/SkateTanic/"><b>Thunderstore</b></a> ·
 <a href="../../releases/latest"><b>Download</b></a> ·
 <a href="#prima-e-dopo">Prima e dopo</a> ·
 <a href="#galleria">Galleria</a> ·
@@ -62,8 +62,8 @@ Due RMS Titanic in scala reale 1:1: **269,06 m** di lunghezza e **28,19 m** di l
 
 ## Installazione
 
-- **Mod manager:** si installa come qualsiasi mappa ReSkate, da [Thunderstore](https://thunderstore.io/c/reskate/p/Skilly/Skate_Tanic/).
-- **A mano:** scarica lo ZIP dalla [Release](../../releases/latest) ed estrailo in `<cartella di skate.>\Mods\Skilly-Skate_Tanic`.
+- **Mod manager:** si installa come qualsiasi mappa ReSkate, da [Thunderstore](https://thunderstore.io/c/reskate/p/Skilly/SkateTanic/).
+- **A mano:** scarica lo ZIP dalla [Release](../../releases/latest) ed estrailo in `<cartella di skate.>\Mods\Skilly-SkateTanic`.
 - **Online:** per giocare insieme serve la stessa versione della mappa per tutti: **0.4.0**.
 
 ## Prima e dopo
@@ -245,7 +245,7 @@ Two RMS Titanics at full scale, 1:1: **269.06 m** long and **28.19 m** wide. The
 - **20 fast-travel points**, a period warehouse with interiors, a 1912 port town on the horizon, pedestrians, and lamps and billboards that light up in the evening.
 - Somewhere in the ice there is a **secret level**. Follow the signs.
 
-**Install.** With a mod manager from [Thunderstore](https://thunderstore.io/c/reskate/p/Skilly/Skate_Tanic/), or manually: download the ZIP from the [Release](../../releases/latest) and extract it into `<skate. folder>\Mods\Skilly-Skate_Tanic`. To play together online, everyone needs version **0.4.0**.
+**Install.** With a mod manager from [Thunderstore](https://thunderstore.io/c/reskate/p/Skilly/SkateTanic/), or manually: download the ZIP from the [Release](../../releases/latest) and extract it into `<skate. folder>\Mods\Skilly-SkateTanic`. To play together online, everyone needs version **0.4.0**.
 
 **Before and after.** How it was and how it is, from the very first version to today, with real measurements.
 
